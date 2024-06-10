@@ -1,16 +1,13 @@
-## Hi there 👋
+Boas vindas ao meu perfil 💙💙
+Meu nome é Luiz Miguel
 
-<!--
-**luizmigueltrader/luizmigueltrader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
 
-Here are some ideas to get you started:
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Você pode entrar em contato comigo 📫
+00001127500107sp@al.educacao.sp.gov.br
+-🎱✈️🌙
+
+![](https://i.pinimg.com/originals/08/30/8d/08308d02d504aae8cef1cd28691c0d85.gif)
